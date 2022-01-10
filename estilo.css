@@ -1,0 +1,215 @@
+header{
+    color: #3fa1fd; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 26px; font-weight: 300; 
+    line-height: 40px; 
+    margin: 0 0 16px;
+    padding: 1.5%;
+    
+    text-align: center;
+}
+.eliminar{
+    color: #fd3f3f; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 26px; font-weight: 300; 
+    line-height: 40px; 
+    margin: 0 0 16px;
+    padding: 1.5%;
+    text-align: center;
+}
+
+.index{
+    color: #3fa1fd; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 26px; font-weight: 300; 
+    line-height: 40px; 
+    margin: 0 0 16px;
+    text-align: center;
+    
+ 
+}
+
+
+
+.entrada{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 29%;  
+    font-size: medium;  
+}
+
+
+label {
+    color: #000000;
+    font-weight: bold;
+    display: block;
+    width: 90px;
+    float: left;
+    padding-left: 20px;
+    font-family: "Arial", sans-serif;
+    font-size: medium;  
+    text-align: center;
+    margin-left: 20%;
+    }
+    label:after { content: ": " }
+
+.button-index {
+    background-color: #47ebf7; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+    
+
+.boton-index1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #47ebf7;
+    margin-left:46% ;
+    }
+
+
+.boton-index1:hover {
+    background-color: #47ebf7;
+    color: white;
+    }
+
+
+.button-index2 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 4px;
+    cursor: pointer;
+    margin-left: 37%;
+    }
+    
+
+.boton-index2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    
+    }
+
+
+.boton-index2:hover {
+    background-color: #4CAF50;
+    color: white;
+    }
+
+
+
+.button-index3 {
+    background-color: #fc4141;
+    border: none;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 4px;
+    cursor: pointer;
+    margin-left: 37%;
+    }
+    
+
+.boton-index3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #fc4141;
+    
+    }
+
+
+.boton-index3:hover {
+    background-color: #fc4141;
+    color: white;
+    }
+
+
+
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+    
+
+.boton1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    margin-left:47% ;
+    }
+
+
+.boton1:hover {
+    background-color: #4CAF50;
+    color: white;
+    }
+
+
+.boton-peligro {
+    background-color: #fc4141; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+    
+
+.boton2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #fc4141;
+    margin-left:47% ;
+    }
+
+
+.boton2:hover {
+    background-color: #fc4141;
+    color: white;
+    }
+    
+table, td, th {
+    border: 1px solid black;
+    font-family: "Arial", sans-serif;
+    }
+    
+    table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+
+    
